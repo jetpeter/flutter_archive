@@ -1,1 +1,1 @@
-../../ios/Classes/SwiftFlutterArchivePlugin.swift
+../../../../ios/flutter_archive/Sources/flutter_archive/SwiftFlutterArchivePlugin.swift
